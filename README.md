@@ -100,16 +100,4 @@ Total do pedido: R$ 27.54
 ```
 
 ---
-
-## 📚 Objetivo do Projeto
-
-Este projeto foi desenvolvido com o objetivo de praticar:
-
-* Lógica de programação
----
-* Estruturas condicionais
-* Estruturas de repetição
-* Entrada e saída de dados em Java
-* Organização de código
-
 ---

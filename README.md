@@ -98,6 +98,3 @@ Deseja ajudar a ONG? (1-Sim / 2-Não)
 Cliente: João
 Total do pedido: R$ 27.54
 ```
-
----
----

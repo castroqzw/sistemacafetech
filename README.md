@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-O **Café Tech** é um sistema simples desenvolvido em **Java** que simula o atendimento de pedidos em uma cafeteria.
+O **Café Tech** é um sistema simples desenvolvido em **Java** como estudo, com a proposta de simular um atendimento de pedidos em uma cafeteria.
 O programa permite que um cliente selecione produtos, informe quantidades, receba descontos automáticos e até faça doações para uma ONG.
 
 Ao final da execução, o sistema gera um **relatório geral** com o total arrecadado, quantidade de pedidos e outras informações importantes.

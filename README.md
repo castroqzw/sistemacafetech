@@ -67,28 +67,7 @@ Ao encerrar o sistema, são exibidas as seguintes informações:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-* **Java**
-* **Scanner (java.util.Scanner)** para entrada de dados
-* Estruturas utilizadas:
-
-  * `while`
-  * `switch`
-  * `if/else`
-  * Variáveis e operadores matemáticos
-
----
-
 ## ▶️ Como Executar o Programa
-
-### 1️⃣ Compile o código:
-
-```bash
-javac Main.java
-```
-
-### 2️⃣ Execute o programa:
 
 ```bash
 java Main
@@ -127,6 +106,7 @@ Total do pedido: R$ 27.54
 Este projeto foi desenvolvido com o objetivo de praticar:
 
 * Lógica de programação
+---
 * Estruturas condicionais
 * Estruturas de repetição
 * Entrada e saída de dados em Java
